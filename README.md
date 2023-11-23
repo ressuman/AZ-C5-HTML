@@ -17,5 +17,21 @@ Inside the body element, I created the main content of my webpage by:
 Replicating the design of the attached file below.
 Under Project, I used an unordered list with square bullets to list at least four interesting project titles. 
 Under History, I used an ordered list with lowercase alphabetical characters for numbering to list at least three history topics.
-
+Finally, I double-checked my HTML file for any errors or typos.
 ![timeTable](https://github.com/ressuman/AZ-C5-HTML/assets/125526378/f2518add-cdcf-412e-9d3f-37359f6825e1)
+
+
+# AZ-C5-HTML-Week 3-Assignment 3
+# HTML Forms
+Within the <body> tag, create a <form> that collects basic user information, such as name, email address, and age.
+2. Implement appropriate form fields for each piece of information (text input for name and email, and number input for age).
+3. Use the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
+ Include input fields for phone number, date of birth (use the date input type), and a dropdown menu for the user's country of residence.
+2. Ensure that the phone number input accepts only numbers, the date of birth is displayed in a user-friendly format, and the country dropdown menu contains a list of different countries.
+
+Create a new form section to collect information about the user's interests.
+2. Include radio buttons for gender selection (Male, Female) and checkboxes for the user to select multiple hobbies (e.g., Reading, Sports, Music, Travel, etc.).
+Add a text area to the form, allowing users to enter additional comments or feedback.
+2. Include a "Submit" button that, when clicked, should trigger form submission.
+Implement form validation using HTML5 attributes to ensure that all required fields are filled out correctly before submission, and ensure that email address and telephone fields are also validated.
+Finally, I double-checked my HTML file for any errors or typos.
