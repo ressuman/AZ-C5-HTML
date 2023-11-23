@@ -23,15 +23,13 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 3-Assignment 3
 # HTML Forms
-Within the <body> tag, create a <form> that collects basic user information, such as name, email address, and age.
-2. Implement appropriate form fields for each piece of information (text input for name and email, and number input for age).
-3. Use the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
- Include input fields for phone number, date of birth (use the date input type), and a dropdown menu for the user's country of residence.
-2. Ensure that the phone number input accepts only numbers, the date of birth is displayed in a user-friendly format, and the country dropdown menu contains a list of different countries.
+Within the <body> tag, I createD a <form> tag that collects basic user information, such as name, email address, and age.
+I also implemented appropriate form fields for each piece of information (text input for name and email, and number input for age) and used the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
+I included input fields for phone number, date of birth (use the date input type), and a dropdown menu for the user's country of residence.
+I also ensured that the phone number input accepts only numbers, the date of birth is displayed in a user-friendly format, and the country dropdown menu contains a list of different countries.
 
-Create a new form section to collect information about the user's interests.
-2. Include radio buttons for gender selection (Male, Female) and checkboxes for the user to select multiple hobbies (e.g., Reading, Sports, Music, Travel, etc.).
-Add a text area to the form, allowing users to enter additional comments or feedback.
-2. Include a "Submit" button that, when clicked, should trigger form submission.
-Implement form validation using HTML5 attributes to ensure that all required fields are filled out correctly before submission, and ensure that email address and telephone fields are also validated.
+I then proceeded to create a new form section to collect information about the user's interests.
+This included radio buttons for gender selection (Male, Female) and checkboxes for the user to select multiple hobbies (e.g., Reading, Sports, Music, Travel, etc.) and then added a text area to the form, allowing users to enter additional comments or feedback.
+I also included a "Submit" button that, when clicked, should trigger form submission.
+I implemented form validation using HTML5 attributes to ensure that all required fields are filled out correctly before submission, and ensure that email address and telephone fields are also validated.
 Finally, I double-checked my HTML file for any errors or typos.
