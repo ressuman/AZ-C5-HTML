@@ -1,7 +1,6 @@
 # AZ-C5-HTML-Week 1-Assignment 1
-HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
-
-The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML.      
+# HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
+# The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML.      
 Ensure your HTML document includes the necessary structural elements, such as <!DOCTYPE html>, <html>, <head>, and <body>.
 Inside the head element,I included a <title> element with a descriptive title for my webpage. Also included a favicon and a few metadata for your document.
 Inside the body element, I created the main content of my webpage which included,
