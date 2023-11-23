@@ -1,11 +1,11 @@
 # AZ-C5-HTML-Week 1-Assignment 1
 # HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
 The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML.      
-Ensure your HTML document includes the necessary structural elements.
-Inside the head element,I included a <title> element with a descriptive title for my webpage. Also included a favicon and a few metadata for your document.
+Ensure your HTML document includes the necessary structural elements such as `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
+Inside the head element,I included a `<title>` element with a descriptive title for my webpage. Also included a favicon and a few metadata for your document.
 
 Inside the body element, I created the main content of my webpage which included,
-The appropriate use of heading tags to structure my content. I also created at least two levels of headings.
+The appropriate use of appropriate heading tags (e.g., `<h1>`, `<h2>`, `<h3>`) to structure my content. I also created at least two levels of headings.
 I also wrote at least two paragraphs of text in the body of my webpage and ensured that they are well-structured and informative.
 I applied text formatting to my content using HTML tags. For example, made some text bold, italic, underlined specific parts of my paragraphs and applied other formatting tags to my paragraphs.
 I included comments in my HTML code to explain the purpose and structure of different sections of my document and used comments to describe my headings, paragraphs, and other significant elements.
@@ -36,6 +36,11 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 4-Assignment 4
 # HTML Web Content Integration and Media Elements
-Use `<div>` and `<span>` elements to demonstrate block and inline elements, respectively.
-1. Inside the `<div>`, include a paragraph of text and a list (`<ul>`) with some items.
-2. Inside the `<span>`, write a sentence and add a few inline elements like `<strong>`, `<em>`, and `<a>` (link).
+I used `<div>` and `<span>` elements to demonstrate block and inline elements, respectively.
+Inside the `<div>`, I included a paragraph of text and a list (`<ul>`) with some items.
+Inside the `<span>`, I then write a sentence and add a few inline elements like `<strong>`, `<em>`, and `<a>` (link).
+I then assign a class (class="highlight") to the paragraph within the `<div>` and style this class later using CSS (give it a red colour).
+I gave an ID (id="main-heading") to the sentence within the `<span>`, bearing in mind that IDs should be unique on a page.
+
+I also embeded an external webpage (e.g., https://aliexpress.com) within an `<iframe>`and added the width and height attributes for the iframe.
+I organized images in an "images" folder and a video in a "videos" folder and referenced an image and a video file in my HTML using relative paths (e.g., `images/picture.jpg` and `videos/sample.mp4`). I double-checked my HTML file for any errors or typos.
