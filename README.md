@@ -33,3 +33,9 @@ This included radio buttons for gender selection (Male, Female) and checkboxes f
 I also included a "Submit" button that, when clicked, should trigger form submission.
 I implemented form validation using HTML5 attributes to ensure that all required fields are filled out correctly before submission, and ensure that email address and telephone fields are also validated.
 Finally, I double-checked my HTML file for any errors or typos.
+
+# AZ-C5-HTML-Week 4-Assignment 4
+# HTML Web Content Integration and Media Elements
+Use `<div>` and `<span>` elements to demonstrate block and inline elements, respectively.
+1. Inside the `<div>`, include a paragraph of text and a list (`<ul>`) with some items.
+2. Inside the `<span>`, write a sentence and add a few inline elements like `<strong>`, `<em>`, and `<a>` (link).
