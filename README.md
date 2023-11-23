@@ -1,8 +1,6 @@
 # AZ-C5-HTML-Week 1-Assignment 1
 # HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
-The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML.      
-Ensure your HTML document includes the necessary structural elements such as `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
-Inside the head element,I included a `<title>` element with a descriptive title for my webpage. Also included a favicon and a few metadata for your document.
+The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML. I also have to ensure that my HTML document includes the necessary structural elements such as `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`. Inside the head element,I have to includ a `<title>` element with a descriptive title for my webpage. Also made sure include a favicon and a few metadata for your document.
 
 Inside the body element, I created the main content of my webpage which included,
 The appropriate use of appropriate heading tags (e.g., `<h1>`, `<h2>`, `<h3>`) to structure my content. I also created at least two levels of headings.
@@ -13,6 +11,8 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 2-Assignment 2
 # HTML Lists and Tables
+The objective of this assignment is to help gain a comprehensive understanding of HTML tables and lists. 
+
 Inside the body element, I created the main content of my webpage by: 
 Replicating the design of the attached file below.
 Under Project, I used an unordered list with square bullets to list at least four interesting project titles. 
@@ -23,6 +23,8 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 3-Assignment 3
 # HTML Forms
+The objective of this assignment is to provide hands-on experience in creating HTML forms. I will be practicing on implementing various form elements, attributes, and validation techniques to enhance user interaction and data submission.
+
 Within the `<body>` tag, I created a `<form>` tag that collects basic user information, such as name, email address, and age.
 I also implemented appropriate form fields for each piece of information (text input for name and email, and number input for age) and used the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
 I included input fields for phone number, date of birth (use the date input type), and a dropdown menu for the user's country of residence.
@@ -36,6 +38,8 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 4-Assignment 4
 # HTML Web Content Integration and Media Elements
+The goal of this assignment is to gain practical experience in integrating diverse web content, establishing strong structural foundations, and effectively using media elements within an HTML document. I will be practicing on implementing a range of elements, attributes, and techniques to enhance web content presentation and user engagement.
+
 I used `<div>` and `<span>` elements to demonstrate block and inline elements, respectively.
 Inside the `<div>`, I included a paragraph of text and a list (`<ul>`) with some items.
 Inside the `<span>`, I then write a sentence and add a few inline elements like `<strong>`, `<em>`, and `<a>` (link).
