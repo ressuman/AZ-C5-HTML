@@ -10,3 +10,12 @@ I also wrote at least two paragraphs of text in the body of my webpage and ensur
 I applied text formatting to my content using HTML tags. For example, made some text bold, italic, underlined specific parts of my paragraphs and applied other formatting tags to my paragraphs.
 I included comments in my HTML code to explain the purpose and structure of different sections of my document and used comments to describe my headings, paragraphs, and other significant elements.
 Finally, I double-checked my HTML file for any errors or typos.
+
+# AZ-C5-HTML-Week 2-Assignment 2
+# HTML Lists and Tables
+Inside the body element, I created the main content of my webpage by
+Replicating the design of the attached file.
+Under Project, I used an unordered list with square bullets to list at least four interesting project titles. 
+Under History, I used an ordered list with lowercase alphabetical characters for numbering to list at least three history topics.
+
+![timeTable](https://github.com/ressuman/AZ-C5-HTML/assets/125526378/f2518add-cdcf-412e-9d3f-37359f6825e1)
