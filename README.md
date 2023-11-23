@@ -23,7 +23,7 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 3-Assignment 3
 # HTML Forms
-Within the <body> tag, I createD a <form> tag that collects basic user information, such as name, email address, and age.
+Within the `<body>` tag, I created a `<form>` tag that collects basic user information, such as name, email address, and age.
 I also implemented appropriate form fields for each piece of information (text input for name and email, and number input for age) and used the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
 I included input fields for phone number, date of birth (use the date input type), and a dropdown menu for the user's country of residence.
 I also ensured that the phone number input accepts only numbers, the date of birth is displayed in a user-friendly format, and the country dropdown menu contains a list of different countries.
