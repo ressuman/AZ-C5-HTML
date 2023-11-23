@@ -13,8 +13,8 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 2-Assignment 2
 # HTML Lists and Tables
-Inside the body element, I created the main content of my webpage by
-Replicating the design of the attached file.
+Inside the body element, I created the main content of my webpage by: 
+Replicating the design of the attached file below.
 Under Project, I used an unordered list with square bullets to list at least four interesting project titles. 
 Under History, I used an ordered list with lowercase alphabetical characters for numbering to list at least three history topics.
 
