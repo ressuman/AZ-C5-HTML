@@ -1,6 +1,6 @@
 # AZ-C5-HTML-Week 1-Assignment 1
 
-# HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
+## HTML Document Structure and Text Formatting, HTML Lists and Tables, HTML Forms and HTML Web Content Integration and Media Elements.
 
 The objective of this assignment is to demonstrate my understanding of HTML document structure, the head and body elements, headings, paragraphs, text formatting, and the use of comments in HTML. Ensure your HTML document includes the necessary structural elements such as `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
 Inside the head element,I included a `<title>` element with a descriptive title for my webpage. Also included a favicon and a few metadata for your document.
@@ -14,7 +14,7 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 2-Assignment 2
 
-# HTML Lists and Tables
+## HTML Lists and Tables
 
 Inside the body element, I created the main content of my webpage by:
 Replicating the design of the attached file below.
@@ -25,7 +25,7 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 3-Assignment 3
 
-# HTML Forms
+## HTML Forms
 
 Within the `<body>` tag, I created a `<form>` tag that collects basic user information, such as name, email address, and age.
 I also implemented appropriate form fields for each piece of information (text input for name and email, and number input for age) and used the appropriate HTML attributes to ensure that the form fields are required and have proper labels.
@@ -40,7 +40,7 @@ Finally, I double-checked my HTML file for any errors or typos.
 
 # AZ-C5-HTML-Week 4-Assignment 4
 
-# HTML Web Content Integration and Media Elements
+## HTML Web Content Integration and Media Elements
 
 I used `<div>` and `<span>` elements to demonstrate block and inline elements, respectively.
 Inside the `<div>`, I included a paragraph of text and a list (`<ul>`) with some items.
